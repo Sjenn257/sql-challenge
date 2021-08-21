@@ -16,6 +16,11 @@ These tables were created using the schema.sql file located in the SQL folder.
 
 I imported corresponding CSVs from the data folder.
 
+Below is the ER Diagram.
+
+![ERD_screenshot](https://user-images.githubusercontent.com/82002107/130335777-f6127e80-5d74-4c39-86e1-669516842799.jpg)
+
+
 # Queries
 
 I ran queries for the folloiwng using the analysis.sql file located in the SQL folder:
