@@ -1,6 +1,6 @@
 # Employee Analysis
 
-<img src="https://user-images.githubusercontent.com/82002107/130335598-56db41c6-7d6f-45e2-9ba6-0c6733d5e42a.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/82002107/130335598-56db41c6-7d6f-45e2-9ba6-0c6733d5e42a.png" width="500" height="300">
 
 ## Database Structure
 
