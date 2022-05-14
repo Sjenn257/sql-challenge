@@ -23,7 +23,7 @@ Below is the ER Diagram.
 
 # Queries
 
-I ran queries for the folloiwng using the analysis.sql file located in the SQL folder:
+I ran the following queries using the analysis.sql file located in the SQL folder:
 
 1. The following details of each employee: employee number, last name, first name, sex, and salary.
 2. First name, last name, and hire date for employees who were hired in 1986.
@@ -34,9 +34,9 @@ I ran queries for the folloiwng using the analysis.sql file located in the SQL f
 7. All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, the frequency count of employee last names, i.e., how many employees share each last name.
 
-# Bonus Homework
+# Visualization
 
-In a Jupyter Notebook, I connected to my database and performed an analysis on employee salaries.
+In a Jupyter Notebook, I connected to my database using Python and performed an analysis on employee salaries.
 
 Below is a picture of the salary histogram to visualize the most common salary ranges for employees, which is $40,000-50,000.
 
