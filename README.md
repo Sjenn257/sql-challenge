@@ -4,7 +4,7 @@
 
 # Database Structure
 
-To perform this analysis, I created a new database with the following tables:
+To perform this analysis, I created a new database using data in the following csv files:
  - Employees
  - Departments
  - Titles
@@ -12,11 +12,9 @@ To perform this analysis, I created a new database with the following tables:
  - Department Manager
  - Salaries
 
-These tables were created using the schema.sql file located in the SQL folder.
+The database tables were created using the <b>schema.sql</b> file located in the SQL folder.
 
-I imported corresponding CSVs from the data folder.
-
-Below is the ER Diagram.
+Below is the ER Diagram showing the relationships.
 
 ![ERD_screenshot](https://user-images.githubusercontent.com/82002107/130335777-f6127e80-5d74-4c39-86e1-669516842799.jpg)
 
