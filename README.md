@@ -4,7 +4,7 @@
 
 ## Database Structure
 
-To perform this analysis, I created a new database using data in the following csv files:
+To perform this analysis, I created a new database using data from the following csv files:
  - Employees
  - Departments
  - Titles
