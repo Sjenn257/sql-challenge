@@ -1,8 +1,8 @@
-## Employee Analysis
+# Employee Analysis
 
-![Employee_Image](https://user-images.githubusercontent.com/82002107/130335598-56db41c6-7d6f-45e2-9ba6-0c6733d5e42a.png)
+![Employee_Image](https://user-images.githubusercontent.com/82002107/130335598-56db41c6-7d6f-45e2-9ba6-0c6733d5e42a.png){:height="700px" width="400px"}
 
-# Database Structure
+## Database Structure
 
 To perform this analysis, I created a new database using data in the following csv files:
  - Employees
@@ -19,7 +19,7 @@ Below is the ER Diagram showing the relationships.
 ![ERD_screenshot](https://user-images.githubusercontent.com/82002107/130335777-f6127e80-5d74-4c39-86e1-669516842799.jpg)
 
 
-# Queries
+## Queries
 
 I ran the following queries using the analysis.sql file located in the SQL folder:
 
@@ -32,7 +32,7 @@ I ran the following queries using the analysis.sql file located in the SQL folde
 7. All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, the frequency count of employee last names, i.e., how many employees share each last name.
 
-# Visualization
+## Visualization
 
 In a Jupyter Notebook, I connected to my database using Python and performed an analysis on employee salaries.
 
