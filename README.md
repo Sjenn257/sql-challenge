@@ -4,7 +4,7 @@
 
 ## Database Structure
 
-To perform this analysis, I created a new database using data from the following csv files:
+To perform this analysis, I created a new database using data from the following csv files located in the Data folder:
  - Employees
  - Departments
  - Titles
@@ -14,14 +14,14 @@ To perform this analysis, I created a new database using data from the following
 
 The database tables were created using the <b>schema.sql</b> file located in the SQL folder.
 
-Below is the ER Diagram showing the relationships.
+Below is the ER Diagram showing their relationships.
 
 ![ERD_screenshot](https://user-images.githubusercontent.com/82002107/130335777-f6127e80-5d74-4c39-86e1-669516842799.jpg)
 
 
 ## Queries
 
-I ran the following queries using the analysis.sql file located in the SQL folder:
+The analysis.sql file located in the SWL folder contains the following queries:
 
 1. The following details of each employee: employee number, last name, first name, sex, and salary.
 2. First name, last name, and hire date for employees who were hired in 1986.
